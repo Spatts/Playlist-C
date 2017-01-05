@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PlaylistTableViewController.h
 //  Playlist-C
 //
 //  Created by Steven Patterson on 8/24/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PlaylistTableViewController : UITableViewController
 
 @end
-
